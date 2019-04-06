@@ -3976,3 +3976,7 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+	.style6 {
+		background-color: rgba(0, 0, 0, 0.6);
+	}
